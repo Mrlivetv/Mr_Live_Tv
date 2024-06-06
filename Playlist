@@ -38,3 +38,730 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" , Nagorik TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 English FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXgYuzfReVGUMhmNaiBuXHB8JTHre-EK9tWIYNq3jPnhA.png" group-title="IN | Sports",Star Sports 1 English FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458841.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 Hindi FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VWcj16XuTPCiay0q1ZCam3DcvfhnmUlLzSDmTcCBRDw1g.png" group-title="IN | Sports",Star Sports 1 Hindi FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458842.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXgYuzfReVGUMhmNaiBuXHB8JTHre-EK9tWIYNq3jPnhA.png" group-title="IN | Sports",Star Sports 1 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458843.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVWVy6weapFkAhnDWzVsgpj-ZNlOo2O74aYMqrSyfbN0w.png" group-title="IN | Sports",Star Sports 2 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458845.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VWzJMLe9BG8lF4zER4x1HGcXiNEbEB4g7EkR8OV9ofxYA.png" group-title="IN | Sports",Star Sports 3
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458847.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VW6Qwh7GmXGhosNyjHWNShslQaTnUTfhNMCzSofav46Ww.png" group-title="IN | Sports",Star Sports Select 1 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458844.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VW6Qwh7GmXGhosNyjHWNShsO8E3OinDx0Iie0NXwarsyw.png" group-title="IN | Sports",Star Sports Select 2 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458846.m3u8
+#EXTINF:-1 tvg-id="PiePV" tvg-name="A Sports FHD" tvg-logo="http://p13.cx:80/images/xwyo7eiGfBkET70EyvStINrBMwDeC8IppEOC3sHQSx1r5pW8uqi_ka3n64dOtX18sBoG_lVUnUSt-1wkKkyBbdjlTL8ZIHQo3R_YumLsa10.png" group-title="IN | Sports",A Sports FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1499996.m3u8
+#EXTINF:-1 tvg-id="STARPlus.in" tvg-name="Sony Ten 3 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXYVaafnDnrsUKCN7zR8GGEXd4yVH06wh4yzfPbnvlwQQ.png" group-title="IN | Sports",Sony Ten 3 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1499995.m3u8
+#EXTINF:-1 tvg-id="SONYTEN2.in" tvg-name="Sony Ten 2 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VWHPIzDbp1lmF7_dSdVufkytnJsTu3HdXu9aiXZA9LBPw.png" group-title="IN | Sports",Sony Ten 2 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1499994.m3u8
+#EXTINF:-1 tvg-id="STARPlus.in" tvg-name="Sony Ten FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVtkXgkbby7Z3GhSiD3Rb76yQ9lfr-3zfoMFH9AGA-hgw.png" group-title="IN | Sports",Sony Ten FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1499993.m3u8
+#EXTINF:-1 tvg-id="streaming" tvg-name="IPL Cricket FHD (event only)" tvg-logo="http://p13.cx:80/images/LjMxooJdLoUjs_tBLxgrV46H4nCYVaP3A4PAAJKld1Q.png" group-title="IN | Sports",IPL Cricket FHD (event only)
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2401122.m3u8
+#EXTINF:-1 tvg-id="StarPravah.in" tvg-name="Star Pravah FHD" tvg-logo="https://iptvboss.xyz/logos/India/StarPravah.in.png" group-title="Indian TV",Star Pravah FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082960.m3u8
+#EXTINF:-1 tvg-id="SAB.in" tvg-name="SAB FHD" tvg-logo="https://iptvboss.xyz/logos/India/SAB.in.png" group-title="Indian TV",SAB FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082961.m3u8
+#EXTINF:-1 tvg-id="SET.in" tvg-name="SET FHD" tvg-logo="https://iptvboss.xyz/logos/India/SET.in.png" group-title="Indian TV",SET FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082962.m3u8
+#EXTINF:-1 tvg-id="SONYBBCEarth.in" tvg-name="Sony BBC EarFHD" tvg-logo="https://iptvboss.xyz/logos/India/SONYBBCEarth.in.png" group-title="Indian TV",Sony BBC EarFHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082963.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="STAR BHARAT FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXKREBzP5yW67rHi0nf_G7T9PuoD3PuMOg30N1AC2H43w.png" group-title="Indian TV",STAR BHARAT FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082964.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="Star Jalsha FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARJalsha.in.png" group-title="Indian TV",Star Jalsha FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082965.m3u8
+#EXTINF:-1 tvg-id="STARMaa.in" tvg-name="Star Maa FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARMaa.in.png" group-title="Indian TV",Star Maa FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082966.m3u8
+#EXTINF:-1 tvg-id="StarMaaMovies.in" tvg-name="Star Maa Mov FHD" tvg-logo="https://iptvboss.xyz/logos/India/StarMaaMovies.in.png" group-title="Indian TV",Star Maa Mov FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082967.m3u8
+#EXTINF:-1 tvg-id="STARPlus.in" tvg-name="Star Plus FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARPlus.in.png" group-title="Indian TV",Star Plus FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082968.m3u8
+#EXTINF:-1 tvg-id="STARPlus.in" tvg-name="IND-Hindi: Star Plus HD" tvg-logo="https://iptvboss.xyz/logos/India/STARPLUS%2B1.in.png" group-title="Indian TV",IND-Hindi: Star Plus HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082969.m3u8
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name="SUN TV FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVJdcrFBCuH1zDbm-0VNnbH.png" group-title="Indian TV",SUN TV FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082970.m3u8
+#EXTINF:-1 tvg-id="Surya.in" tvg-name="SURYA FHD" tvg-logo="https://iptvboss.xyz/logos/India/Surya.in.png" group-title="Indian TV",SURYA FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082971.m3u8
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC FHD" tvg-logo="https://iptvboss.xyz/logos/India/TLC.in.png" group-title="Indian TV",TLC FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082972.m3u8
+#EXTINF:-1 tvg-id="UdayaTV.in" tvg-name="UDAYA FHD" tvg-logo="https://iptvboss.xyz/logos/India/UdayaTV.in.png" group-title="Indian TV",UDAYA FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082973.m3u8
+#EXTINF:-1 tvg-id="UTV.in" tvg-name="UTV FHD" tvg-logo="https://iptvboss.xyz/logos/India/UTV.in.png" group-title="Indian TV",UTV FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082974.m3u8
+#EXTINF:-1 tvg-id="vijayhd.in" tvg-name="VIJAY FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VX__oFcmjmJu17kzH-PxWX3P4oOPTVim6QJogt9aivCwQ.png" group-title="Indian TV",VIJAY FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082975.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="zee bangla FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeBangla.in.png" group-title="Indian TV",zee bangla FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082976.m3u8
+#EXTINF:-1 tvg-id="ZeeTV+1.in" tvg-name="ZEE TV FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTV.in.png" group-title="Indian TV",ZEE TV FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082977.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.in" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://iptvboss.xyz/logos/India/AnimalPlanet.in.png" group-title="Indian TV",ANIMAL PLANET FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082978.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="Asianet FHD" tvg-logo="https://iptvboss.xyz/logos/India/Asianet.in.png" group-title="Indian TV",Asianet FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082979.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="Colors FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXkcWY8883MKdHFcUl5GLcS.png" group-title="Indian TV",Colors FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082980.m3u8
+#EXTINF:-1 tvg-id="Discovery.in" tvg-name="DISCOVERY FHD" tvg-logo="https://iptvboss.xyz/logos/India/Discovery.in.png" group-title="Indian TV",DISCOVERY FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082981.m3u8
+#EXTINF:-1 tvg-id="ETV.in" tvg-name="ETV FHD" tvg-logo="https://iptvboss.xyz/logos/India/ETV.in.png" group-title="Indian TV",ETV FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082982.m3u8
+#EXTINF:-1 tvg-id="FOXLife.in" tvg-name="FOX Life FHD" tvg-logo="https://iptvboss.xyz/logos/India/FOXLife.in.png" group-title="Indian TV",FOX Life FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082983.m3u8
+#EXTINF:-1 tvg-id="HistoryTV18.in" tvg-name="HISTORY TV FHD" tvg-logo="https://iptvboss.xyz/logos/India/HistoryTV18.in.png" group-title="Indian TV",HISTORY TV FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082984.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID FHD" tvg-logo="" group-title="Indian TV",ID FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082985.m3u8
+#EXTINF:-1 tvg-id="andpicturesHD.in" tvg-name="IND-Hindi: & Picture HD" tvg-logo="https://iptvboss.xyz/logos/India/andpicturesHD.in.png" group-title="Indian TV",IND-Hindi: & Picture HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082986.m3u8
+#EXTINF:-1 tvg-id="andtv.in" tvg-name="IND-Hindi: & TV HD" tvg-logo="https://iptvboss.xyz/logos/India/andtv.in.png" group-title="Indian TV",IND-Hindi: & TV HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082987.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="IND-Hindi: Colors HD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXkcWY8883MKdHFcUl5GLcS.png" group-title="Indian TV",IND-Hindi: Colors HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082988.m3u8
+#EXTINF:-1 tvg-id="Enterr10.in" tvg-name="IND-Hindi: Enterr 10" tvg-logo="https://iptvboss.xyz/logos/India/Enterr10.in.png" group-title="Indian TV",IND-Hindi: Enterr 10
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082989.m3u8
+#EXTINF:-1 tvg-id="SONY.in" tvg-name="IND-Hindi: Sony TV" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXvO4DPorCm2VfGbfjbYlp8.png" group-title="Indian TV",IND-Hindi: Sony TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082990.m3u8
+#EXTINF:-1 tvg-id="SONY.in" tvg-name="IND-Hindi: SONY SAB HD" tvg-logo="https://iptvboss.xyz/logos/India/SONYSAB.in.png" group-title="Indian TV",IND-Hindi: SONY SAB HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082991.m3u8
+#EXTINF:-1 tvg-id="StarBharat.in" tvg-name="IND-Hindi: Star Bharat HD" tvg-logo="https://iptvboss.xyz/logos/India/StarBharat.in.png" group-title="Indian TV",IND-Hindi: Star Bharat HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082992.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="IND-Hindi: zee TV HD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTV.in.png" group-title="Indian TV",IND-Hindi: zee TV HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082993.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetWorld.in" tvg-name="IND-loc: ANIMAL PLANET HD WORLD" tvg-logo="https://iptvboss.xyz/logos/India/AnimalPlanetWorld.in.png" group-title="Indian TV",IND-loc: ANIMAL PLANET HD WORLD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082994.m3u8
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="IND-loc: NDTV 24x7" tvg-logo="https://iptvboss.xyz/logos/India/NDTV24x7.in.png" group-title="Indian TV",IND-loc: NDTV 24x7
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082995.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="IND-loc: ZEE ACTION" tvg-logo="https://iptvboss.xyz/logos/India/ZeeAction.in.png" group-title="Indian TV",IND-loc: ZEE ACTION
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082996.m3u8
+#EXTINF:-1 tvg-id="ColorsRishtey.in" tvg-name="IND: Colors Rishtey" tvg-logo="https://iptvboss.xyz/logos/India/ColorsRishtey.in.png" group-title="Indian TV",IND: Colors Rishtey
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082997.m3u8
+#EXTINF:-1 tvg-id="KTV.in" tvg-name="KTV FHD-Rs 19" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VUt20RIzsyt_GxTCMTXG8yp.png" group-title="Indian TV",KTV FHD-Rs 19
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082998.m3u8
+#EXTINF:-1 tvg-id="SONYMAX.in" tvg-name="MAX FHD" tvg-logo="https://iptvboss.xyz/logos/India/SONYMAX.in.png" group-title="Indian TV",MAX FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2082999.m3u8
+#EXTINF:-1 tvg-id="MN+.in" tvg-name="MN+ FHD" tvg-logo="https://iptvboss.xyz/logos/India/MN%2B.in.png" group-title="Indian TV",MN+ FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083000.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="NAT Geo Wild FHD" tvg-logo="https://iptvboss.xyz/logos/India/NatGeoWild.in.png" group-title="Indian TV",NAT Geo Wild FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083001.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National GEO FHD" tvg-logo="https://iptvboss.xyz/logos/India/NationalGeographic.in.png" group-title="Indian TV",National GEO FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083002.m3u8
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="nick FHD" tvg-logo="https://iptvboss.xyz/logos/India/Nick.in.png" group-title="Indian TV",nick FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083003.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="Ind: Nat Geo HIndi" tvg-logo="https://iptvboss.xyz/logos/India/NatGeoWild.in.png" group-title="Indian TV",Ind: Nat Geo HIndi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083004.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="Ind-Loc: Nat Geo Wild Hindi" tvg-logo="https://iptvboss.xyz/logos/India/NatGeoWild.in.png" group-title="Indian TV",Ind-Loc: Nat Geo Wild Hindi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083005.m3u8
+#EXTINF:-1 tvg-id="Discovery.in" tvg-name="Ind-doc: Discovery HD Hindi" tvg-logo="https://iptvboss.xyz/logos/India/Discovery.in.png" group-title="Indian TV",Ind-doc: Discovery HD Hindi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083006.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Cooking Active" tvg-logo="" group-title="Indian TV",D2H-Active: Cooking Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083007.m3u8
+#EXTINF:-1 tvg-id="SONYBBCEarth.in" tvg-name="IND: BBC EARTH HD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXJJVmYsA6sdlpWkG8yM3uXfAp0C416UFBR1xgIpM7b9A.png" group-title="Indian TV",IND: BBC EARTH HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083008.m3u8
+#EXTINF:-1 tvg-id="NatGeoWild.in" tvg-name="NAT Geo Wild FHD" tvg-logo="https://iptvboss.xyz/logos/India/NatGeoWild.in.png" group-title="Indian TV",NAT Geo Wild FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083009.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in" tvg-name="National GEO FHD" tvg-logo="https://iptvboss.xyz/logos/India/NationalGeographic.in.png" group-title="Indian TV",National GEO FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083010.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active:  Movies Active HD" tvg-logo="" group-title="Indian TV",D2H-Active:  Movies Active HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083011.m3u8
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="IND: utv movies" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVeaqldRY8XmorlnE0WTWOBXKT5rKoCmaCuR1i6INlRdQ.png" group-title="Indian TV",IND: utv movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083012.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies  FHD" tvg-logo="https://iptvboss.xyz/logos/India/JalshaMovies.in.png" group-title="Indian TV",Jalsha Movies  FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083013.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Movies active FHD" tvg-logo="" group-title="Indian TV",Movies active FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083014.m3u8
+#EXTINF:-1 tvg-id="MoviesNow.in" tvg-name="movies now FHD" tvg-logo="https://iptvboss.xyz/logos/India/MoviesNow.in.png" group-title="Indian TV",movies now FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083015.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-loc: I love Movies" tvg-logo="" group-title="Indian TV",Ind-loc: I love Movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083016.m3u8
+#EXTINF:-1 tvg-id="BflixMovies.in" tvg-name="Ind-loc: Bflix Movies" tvg-logo="https://iptvboss.xyz/logos/India/BflixMovies.in.png" group-title="Indian TV",Ind-loc: Bflix Movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083017.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Star Jalsha Movies FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARJalsha.in.png" group-title="Indian TV",Star Jalsha Movies FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083018.m3u8
+#EXTINF:-1 tvg-id="TataSkyBhojpuriSanima.in" tvg-name="Ind: B4U BHOJPURI" tvg-logo="https://iptvboss.xyz/logos/India/TataSkyBhojpuriSanima.in.png" group-title="Indian TV",Ind: B4U BHOJPURI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083019.m3u8
+#EXTINF:-1 tvg-id="TataSkyBhojpuriSanima.in" tvg-name="Ind: Bhojpuri Cinema" tvg-logo="https://iptvboss.xyz/logos/India/TataSkyBhojpuriSanima.in.png" group-title="Indian TV",Ind: Bhojpuri Cinema
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083020.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GOLDMINES Bhojpuri" tvg-logo="" group-title="Indian TV",GOLDMINES Bhojpuri
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083021.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goldmines" tvg-logo="" group-title="Indian TV",Goldmines
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083022.m3u8
+#EXTINF:-1 tvg-id="BollywoodP.in" tvg-name="Goldmines Bollywood" tvg-logo="https://iptvboss.xyz/logos/India/BollywoodP.in.png" group-title="Indian TV",Goldmines Bollywood
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083023.m3u8
+#EXTINF:-1 tvg-id="WOWCinemaOne.in" tvg-name="PKInd: WOW CINEMA" tvg-logo="https://iptvboss.xyz/logos/India/WOWCinemaOne.in.png" group-title="Indian TV",PKInd: WOW CINEMA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083024.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXQUn-QRbLhKcxI-HdrRWJVHC1oW_CLBL2X_hhNJi5omw.png" group-title="Indian TV",ZEE CINEMA FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083025.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in" tvg-name="IND-Hindi: Zee Cinema HD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeCinema.in.png" group-title="Indian TV",IND-Hindi: Zee Cinema HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083026.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolCinema.in" tvg-name="IND-Hindi: ZEE ANMOL CINEMA" tvg-logo="https://iptvboss.xyz/logos/India/ZeeAnmolCinema.in.png" group-title="Indian TV",IND-Hindi: ZEE ANMOL CINEMA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083027.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="IND-Hindi: ZEE ACTION" tvg-logo="https://iptvboss.xyz/logos/India/ZeeAction.in.png" group-title="Indian TV",IND-Hindi: ZEE ACTION
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083028.m3u8
+#EXTINF:-1 tvg-id="STARUtsav.in" tvg-name="ind-ind: Star Utsav" tvg-logo="https://iptvboss.xyz/logos/India/STARUtsav.in.png" group-title="Indian TV",ind-ind: Star Utsav
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083029.m3u8
+#EXTINF:-1 tvg-id="StarGOLD.in" tvg-name="Star GOLD FHD" tvg-logo="https://iptvboss.xyz/logos/India/StarGOLD.in.png" group-title="Indian TV",Star GOLD FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083030.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="Star Gold Sel HD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VX6iaaRdZz7Jl_An96tM5CxtlRQO8yWIfIAYiigPHaHMQ.png" group-title="Indian TV",Star Gold Sel HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083031.m3u8
+#EXTINF:-1 tvg-id="StarGOLD.in" tvg-name="IND-Hindi: Star Gold HD" tvg-logo="https://iptvboss.xyz/logos/India/StarGOLD.in.png" group-title="Indian TV",IND-Hindi: Star Gold HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083032.m3u8
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-name="IND-Hindi: Star Gold Select" tvg-logo="https://iptvboss.xyz/logos/India/StarGoldSelect.in.png" group-title="Indian TV",IND-Hindi: Star Gold Select
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083033.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in" tvg-name="IND: Star Gold 2" tvg-logo="https://iptvboss.xyz/logos/India/StarGold2.in.png" group-title="Indian TV",IND: Star Gold 2
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083034.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="Colors Cineplex FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXbRBP9CTccf_t3eRgYQ624pnZjB2bBDccWXMqae3ja8Q.png" group-title="Indian TV",Colors Cineplex FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083035.m3u8
+#EXTINF:-1 tvg-id="SONYMAX2.in" tvg-name="IND-Hindi: Sony Max 2" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VU9uRMFs9HFRO1xqYguQrOcKgyzcJssO0DMqxgoPTnFag.png" group-title="Indian TV",IND-Hindi: Sony Max 2
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083036.m3u8
+#EXTINF:-1 tvg-id="SONYMAX.in" tvg-name="IND-Hindi: Sony Max HD" tvg-logo="https://iptvboss.xyz/logos/India/SONYMAX.in.png" group-title="Indian TV",IND-Hindi: Sony Max HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083037.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: : Evergreeen Classic" tvg-logo="" group-title="Indian TV",D2H-Active: : Evergreeen Classic
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083038.m3u8
+#EXTINF:-1 tvg-id="Dangal.in" tvg-name="IND-regional: Dangal" tvg-logo="https://iptvboss.xyz/logos/India/Dangal.in.png" group-title="Indian TV",IND-regional: Dangal
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083039.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Cine Active" tvg-logo="" group-title="Indian TV",D2H-Active: Cine Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083040.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Hits Active" tvg-logo="" group-title="Indian TV",D2H-Active: Hits Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083041.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Punjabi Active" tvg-logo="" group-title="Indian TV",D2H-Active: Punjabi Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083042.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Shorts Tv Active" tvg-logo="" group-title="Indian TV",D2H-Active: Shorts Tv Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083043.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Thriller Active" tvg-logo="" group-title="Indian TV",D2H-Active: Thriller Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083044.m3u8
+#EXTINF:-1 tvg-id="PublicMovies.in" tvg-name="IND-regional: PUBLIC MOVIES" tvg-logo="https://iptvboss.xyz/logos/India/PublicMovies.in.png" group-title="Indian TV",IND-regional: PUBLIC MOVIES
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083045.m3u8
+#EXTINF:-1 tvg-id="SONYPIX.in" tvg-name="SONY PIX FHD" tvg-logo="https://iptvboss.xyz/logos/India/SONYPIX.in.png" group-title="Indian TV",SONY PIX FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083046.m3u8
+#EXTINF:-1 tvg-id="SONYPIX.in" tvg-name="IND: Sony Pix HD" tvg-logo="https://iptvboss.xyz/logos/India/SONYPIX.in.png" group-title="Indian TV",IND: Sony Pix HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083047.m3u8
+#EXTINF:-1 tvg-id="Andprive.in" tvg-name="IND: & Prive HD" tvg-logo="https://iptvboss.xyz/logos/India/Andprive.in.png" group-title="Indian TV",IND: & Prive HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083048.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-name="colors INFINITY FHD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsInfinity.in.png" group-title="Indian TV",colors INFINITY FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083049.m3u8
+#EXTINF:-1 tvg-id="ZeeCafe.in" tvg-name="ZEE Cafe FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXgSVrQdM80NadPtiKbrUp7.png" group-title="Indian TV",ZEE Cafe FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083050.m3u8
+#EXTINF:-1 tvg-id="Zing.in" tvg-name="IND: Zing" tvg-logo="https://iptvboss.xyz/logos/India/Zing.in.png" group-title="Indian TV",IND: Zing
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083051.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-Hindi: B4U hits" tvg-logo="" group-title="Indian TV",IND-Hindi: B4U hits
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083052.m3u8
+#EXTINF:-1 tvg-id="GeminiMovies.in" tvg-name="Gemini Movies FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXn41nB2vKM6wcK2n8oPgk3n36QJk9sF2IH-C2X-LoQYA.png" group-title="Indian TV",Gemini Movies FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083053.m3u8
+#EXTINF:-1 tvg-id="STARMovies.in" tvg-name="STAR MOVIES FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVVWK8Qcv2A9jGntQ7soMt7XhVu7Kv8ke_IK0NCFmVdBQ.png" group-title="Indian TV",STAR MOVIES FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083054.m3u8
+#EXTINF:-1 tvg-id="STARMoviesSelect.in" tvg-name="IND: Star Movies Select HD" tvg-logo="https://iptvboss.xyz/logos/India/STARMoviesSelect.in.png" group-title="Indian TV",IND: Star Movies Select HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083055.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="IND: cineplex HD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsCineplex.in.png" group-title="Indian TV",IND: cineplex HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083056.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND: Maha Movie" tvg-logo="" group-title="Indian TV",IND: Maha Movie
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083057.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND: Rishty Cineplex" tvg-logo="" group-title="Indian TV",IND: Rishty Cineplex
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083058.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywood.in" tvg-name="IND: zee BollyWood" tvg-logo="https://iptvboss.xyz/logos/India/ZeeBollywood.in.png" group-title="Indian TV",IND: zee BollyWood
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083059.m3u8
+#EXTINF:-1 tvg-id="UTVAction.in" tvg-name="IND: UTV ACTION" tvg-logo="https://iptvboss.xyz/logos/India/UTVAction.in.png" group-title="Indian TV",IND: UTV ACTION
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083060.m3u8
+#EXTINF:-1 tvg-id="ZeeKeralam.in" tvg-name="IND: ZEE KERALAM HD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeKeralam.in.png" group-title="Indian TV",IND: ZEE KERALAM HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083061.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH ONE SHRADDHA" tvg-logo="https://iptvboss.xyz/logos/India/MHOneShraddha.in.png" group-title="Indian TV",MH ONE SHRADDHA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083062.m3u8
+#EXTINF:-1 tvg-id="MTV.in" tvg-name="IND-Hindi: MTV HD" tvg-logo="https://iptvboss.xyz/logos/India/MTV.in.png" group-title="Indian TV",IND-Hindi: MTV HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083063.m3u8
+#EXTINF:-1 tvg-id="MTVBeats.in" tvg-name="IND-Hindi: MTV Beats" tvg-logo="https://iptvboss.xyz/logos/India/MTVBeats.in.png" group-title="Indian TV",IND-Hindi: MTV Beats
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083064.m3u8
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-name="IND-regional: PUBLIC MUSIC" tvg-logo="https://iptvboss.xyz/logos/India/PublicMusic.in.png" group-title="Indian TV",IND-regional: PUBLIC MUSIC
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083065.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Music Active Hits" tvg-logo="" group-title="Indian TV",D2H-Active: Music Active Hits
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083066.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Music Active Masla" tvg-logo="" group-title="Indian TV",D2H-Active: Music Active Masla
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083067.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MH ONE MUSIC" tvg-logo="" group-title="Indian TV",IND-regional: MH ONE MUSIC
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083068.m3u8
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-name="PAK: jalwa" tvg-logo="https://iptvboss.xyz/logos/India/9XJalwa.in.png" group-title="Indian TV",PAK: jalwa
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083069.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D2H-Active: Dance Active" tvg-logo="" group-title="Indian TV",D2H-Active: Dance Active
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083070.m3u8
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="Sun Music FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVXGMjrcnSfmHjLpTgDJB6_2dpEz-C57Ngi_uGOiz4OyQ.png" group-title="Indian TV",Sun Music FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083071.m3u8
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-name="GEMINI MUSIC FHD" tvg-logo="https://iptvboss.xyz/logos/India/GeminiMusic.in.png" group-title="Indian TV",GEMINI MUSIC FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083072.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: 7SMUSIC" tvg-logo="" group-title="Indian TV",IND-regional: 7SMUSIC
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083073.m3u8
+#EXTINF:-1 tvg-id="Hungama.in" tvg-name="Ind-Kids: Hungama tv" tvg-logo="https://iptvboss.xyz/logos/India/Hungama.in.png" group-title="Indian TV",Ind-Kids: Hungama tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083074.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.in" tvg-name="Ind-Kids: Cartoon Network" tvg-logo="https://iptvboss.xyz/logos/India/CartoonNetwork.in.png" group-title="Indian TV",Ind-Kids: Cartoon Network
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083075.m3u8
+#EXTINF:-1 tvg-id="Disney.in" tvg-name="Ind-Kids: Disney tv" tvg-logo="https://iptvboss.xyz/logos/India/Disney.in.png" group-title="Indian TV",Ind-Kids: Disney tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083076.m3u8
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="Ind-Kids: Nick" tvg-logo="https://iptvboss.xyz/logos/India/Nick.in.png" group-title="Indian TV",Ind-Kids: Nick
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083077.m3u8
+#EXTINF:-1 tvg-id="Pogo.in" tvg-name="Ind-Kids: Pogo" tvg-logo="https://iptvboss.xyz/logos/India/Pogo.in.png" group-title="Indian TV",Ind-Kids: Pogo
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083078.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.in" tvg-name="Ind-Kids: Discovery Kids" tvg-logo="https://iptvboss.xyz/logos/India/DiscoveryKids.in.png" group-title="Indian TV",Ind-Kids: Discovery Kids
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083079.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in" tvg-name="ind-kids: Disney junior" tvg-logo="https://iptvboss.xyz/logos/India/DisneyJunior.in.png" group-title="Indian TV",ind-kids: Disney junior
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083080.m3u8
+#EXTINF:-1 tvg-id="SonicNickelodeon.in" tvg-name="ind-kids: Sonic" tvg-logo="https://iptvboss.xyz/logos/India/SonicNickelodeon.in.png" group-title="Indian TV",ind-kids: Sonic
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083081.m3u8
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="nick FHD" tvg-logo="https://iptvboss.xyz/logos/India/Nick.in.png" group-title="Indian TV",nick FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083082.m3u8
+#EXTINF:-1 tvg-id="ChuttiTV.in" tvg-name="Ind-Kids: Chutti Tv" tvg-logo="https://iptvboss.xyz/logos/India/ChuttiTV.in.png" group-title="Indian TV",Ind-Kids: Chutti Tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083083.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: 24News" tvg-logo="" group-title="Indian TV",IND-regional: 24News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083084.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: CVR NEWS" tvg-logo="" group-title="Indian TV",IND-regional: CVR NEWS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083085.m3u8
+#EXTINF:-1 tvg-id="IndiaNews.in" tvg-name="IND-regional: I NEWS" tvg-logo="https://iptvboss.xyz/logos/India/IndiaNews.in.png" group-title="Indian TV",IND-regional: I NEWS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083086.m3u8
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-name="IND-regional: KAIRALI NEWS" tvg-logo="https://iptvboss.xyz/logos/India/KairaliNews.in.png" group-title="Indian TV",IND-regional: KAIRALI NEWS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083087.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="IND: India TV" tvg-logo="https://iptvboss.xyz/logos/India/IndiaTV.in.png" group-title="Indian TV",IND: India TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083088.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-name="IND: NDTV India" tvg-logo="https://iptvboss.xyz/logos/India/NDTVIndia.in.png" group-title="Indian TV",IND: NDTV India
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083089.m3u8
+#EXTINF:-1 tvg-id="News18India.in" tvg-name="IND: News18 India" tvg-logo="https://iptvboss.xyz/logos/India/News18India.in.png" group-title="Indian TV",IND: News18 India
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083090.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="IND: Zee News" tvg-logo="https://iptvboss.xyz/logos/India/ZeeNews.in.png" group-title="Indian TV",IND: Zee News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083091.m3u8
+#EXTINF:-1 tvg-id="TIMESNOW.in" tvg-name="IND: Times NOW" tvg-logo="https://iptvboss.xyz/logos/India/TIMESNOW.in.png" group-title="Indian TV",IND: Times NOW
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083092.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-loc: Republic News India" tvg-logo="https://iptvboss.xyz/logos/India/REPUBLICTV.in.png" group-title="Indian TV",Ind-loc: Republic News India
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083093.m3u8
+#EXTINF:-1 tvg-id="SONYTEN1.in" tvg-name="Sony Ten 1 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVtkXgkbby7Z3GhSiD3Rb76yQ9lfr-3zfoMFH9AGA-hgw.png" group-title="Indian TV",Sony Ten 1 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083094.m3u8
+#EXTINF:-1 tvg-id="SONYTEN1.in" tvg-name="IND-Sports: Sony Ten 1 HD" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN1.in.png" group-title="Indian TV",IND-Sports: Sony Ten 1 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083095.m3u8
+#EXTINF:-1 tvg-id="SONYTEN2.in" tvg-name="Sony Ten 2 FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VWHPIzDbp1lmF7_dSdVufkytnJsTu3HdXu9aiXZA9LBPw.png" group-title="Indian TV",Sony Ten 2 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083096.m3u8
+#EXTINF:-1 tvg-id="SONYTEN2.in" tvg-name="IND-Sports: Sony Ten 2 HD" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN2.in.png" group-title="Indian TV",IND-Sports: Sony Ten 2 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083097.m3u8
+#EXTINF:-1 tvg-id="SONYTEN3.in" tvg-name="Sony Ten 3 FHD" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN3.in.png" group-title="Indian TV",Sony Ten 3 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083098.m3u8
+#EXTINF:-1 tvg-id="SONYTEN3.in" tvg-name="IND-Sports: Sony Ten 3 HD" tvg-logo="https://iptvboss.xyz/logos/India/SONYTEN3.in.png" group-title="Indian TV",IND-Sports: Sony Ten 3 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083099.m3u8
+#EXTINF:-1 tvg-id="SonyTen4.in" tvg-name="Ind-sports: Sony Ten 4" tvg-logo="https://iptvboss.xyz/logos/India/SonyTen4.in.png" group-title="Indian TV",Ind-sports: Sony Ten 4
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083100.m3u8
+#EXTINF:-1 tvg-id="SONYSIX.in" tvg-name="Sony Six FHD" tvg-logo="https://iptvboss.xyz/logos/India/SONYSIX.in.png" group-title="Indian TV",Sony Six FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083101.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 FHD Airtel" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VX99X4pzWQGkjng6B-OfDHGeO8dV_Uc-ZlPElUJR9WEow.png" group-title="Indian TV",Star Sports 1 FHD Airtel
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083102.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HINDI FHD-" tvg-logo="https://iptvboss.xyz/logos/India/StarSports1Hindi.in.png" group-title="Indian TV",Star Sports 1 HINDI FHD-
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083103.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-Sports: STAR SPORTS 1 HD 1080 H.264" tvg-logo="https://iptvboss.xyz/logos/India/STARSports1.in.png" group-title="Indian TV",IND-Sports: STAR SPORTS 1 HD 1080 H.264
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083104.m3u8
+#EXTINF:-1 tvg-id="STARSports1.in" tvg-name="Star Sports 1 d2h FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARSports1.in.png" group-title="Indian TV",Star Sports 1 d2h FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083105.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="IND-Sports: Star Sports 1 HD 720" tvg-logo="https://iptvboss.xyz/logos/India/STARSports1.in.png" group-title="Indian TV",IND-Sports: Star Sports 1 HD 720
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083106.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="IND-Sports: Star Sports Hindi 1 HD" tvg-logo="https://iptvboss.xyz/logos/India/StarSports1Hindi.in.png" group-title="Indian TV",IND-Sports: Star Sports Hindi 1 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083107.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in" tvg-name="IND-Sports: Star Sports tamil 1" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VU92QztbSoGj3EkEfuVg-fgL-dZPZYA0sLAE9n6TiaJGQ.png" group-title="Indian TV",IND-Sports: Star Sports tamil 1
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083108.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IND-Sports: STAR SPORTS 2 HD 1080 H.264" tvg-logo="https://iptvboss.xyz/logos/India/STARSports2.in.png" group-title="Indian TV",IND-Sports: STAR SPORTS 2 HD 1080 H.264
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083109.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IND-Sports: STAR SPORTS 2 HD 1080 H.265" tvg-logo="https://iptvboss.xyz/logos/India/STARSports2.in.png" group-title="Indian TV",IND-Sports: STAR SPORTS 2 HD 1080 H.265
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083110.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 FHD Airtel" tvg-logo="https://iptvboss.xyz/logos/India/StarSports2.in.png" group-title="Indian TV",Star Sports 2 FHD Airtel
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083111.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2 FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARSports2.in.png" group-title="Indian TV",Star Sports 2 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083112.m3u8
+#EXTINF:-1 tvg-id="STARSports2.in" tvg-name="Star Sports 2 d2h FHD" tvg-logo="https://iptvboss.xyz/logos/India/STARSports2.in.png" group-title="Indian TV",Star Sports 2 d2h FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083113.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IND-Sports: Star Sports 2 HD" tvg-logo="https://iptvboss.xyz/logos/India/STARSports2.in.png" group-title="Indian TV",IND-Sports: Star Sports 2 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083114.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="IND-Sports: STAR SPORTS 2 HD SD" tvg-logo="https://iptvboss.xyz/logos/India/STARSports2.in.png" group-title="Indian TV",IND-Sports: STAR SPORTS 2 HD SD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083115.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="IND-Sports: Star Sports 3" tvg-logo="https://iptvboss.xyz/logos/India/StarSports3.in.png" group-title="Indian TV",IND-Sports: Star Sports 3
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083116.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="Star Sports 3 SD 576" tvg-logo="https://iptvboss.xyz/logos/India/StarSports3.in.png" group-title="Indian TV",Star Sports 3 SD 576
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083117.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in" tvg-name="IND-Sports: Star Sports 3" tvg-logo="https://iptvboss.xyz/logos/India/StarSports3.in.png" group-title="Indian TV",IND-Sports: Star Sports 3
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083118.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1 FHD" tvg-logo="https://iptvboss.xyz/logos/India/StarSportsSelect1.in.png" group-title="Indian TV",Star Sports Select 1 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083119.m3u8
+#EXTINF:-1 tvg-id="StarSports1Hindi.in" tvg-name="IND-Sports: Star Sports Hindi 1 HD" tvg-logo="https://iptvboss.xyz/logos/India/StarSports1Hindi.in.png" group-title="Indian TV",IND-Sports: Star Sports Hindi 1 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083120.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="IND-Sports: Star Sports Select 1 HD" tvg-logo="https://iptvboss.xyz/logos/India/StarSportsSelect1.in.png" group-title="Indian TV",IND-Sports: Star Sports Select 1 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083121.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2 FHD" tvg-logo="https://iptvboss.xyz/logos/India/StarSportsSelect2.in.png" group-title="Indian TV",Star Sports Select 2 FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083122.m3u8
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="IND-Sports: Star Sports Select 2 HD" tvg-logo="https://iptvboss.xyz/logos/India/StarSportsSelect2.in.png" group-title="Indian TV",IND-Sports: Star Sports Select 2 HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083123.m3u8
+#EXTINF:-1 tvg-id="SONYSIX.in" tvg-name="IND-Sports: Sony Six HD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VWF_HjgfbHDGpbqpBt-n8PB.png" group-title="Indian TV",IND-Sports: Sony Six HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083124.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-Sports: Willow Cricket HD" tvg-logo="" group-title="Indian TV",IND-Sports: Willow Cricket HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083125.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bd-loc: T-Sports-HD" tvg-logo="" group-title="Indian TV",bd-loc: T-Sports-HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083126.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten Cricket" tvg-logo="" group-title="Indian TV",Ten Cricket
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083127.m3u8
+#EXTINF:-1 tvg-id="DDSports.in" tvg-name="Ind-sports: dd Sports" tvg-logo="https://iptvboss.xyz/logos/India/DDSports.in.png" group-title="Indian TV",Ind-sports: dd Sports
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083128.m3u8
+#EXTINF:-1 tvg-id="1sports.in" tvg-name="IND-regional: 1SPORTS" tvg-logo="https://iptvboss.xyz/logos/India/1sports.in.png" group-title="Indian TV",IND-regional: 1SPORTS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083129.m3u8
+#EXTINF:-1 tvg-id="Sports18.in" tvg-name="ind-sports: Sports 18" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXLmqonX98UQbP4kyp3OXXYvtBN12h7XluwBvVqshM5jw.png" group-title="Indian TV",ind-sports: Sports 18
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083130.m3u8
+#EXTINF:-1 tvg-id="Eurosport.in" tvg-name="IND: Europsorts" tvg-logo="https://iptvboss.xyz/logos/India/Eurosport.in.png" group-title="Indian TV",IND: Europsorts
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083131.m3u8
+#EXTINF:-1 tvg-id="ZeeKeralam.in" tvg-name="zee KERALAM FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeKeralam.in.png" group-title="Indian TV",zee KERALAM FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083132.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="ZEE MARATHI FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeMarathi.in.png" group-title="Indian TV",ZEE MARATHI FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083133.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-name="ZEE TALKIE FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTalkies.in.png" group-title="Indian TV",ZEE TALKIE FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083134.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="Zee Tamil FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTamil.in.png" group-title="Indian TV",Zee Tamil FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083135.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="Zee Telegu FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTelugu.in.png" group-title="Indian TV",Zee Telegu FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083136.m3u8
+#EXTINF:-1 tvg-id="GeminiMovies.in" tvg-name="IND-Telugu: GEMINI movies" tvg-logo="https://iptvboss.xyz/logos/India/GeminiMovies.in.png" group-title="Indian TV",IND-Telugu: GEMINI movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083137.m3u8
+#EXTINF:-1 tvg-id="UdayaMovies.in" tvg-name="IND-Kannada: UDAYA MOVIES" tvg-logo="https://iptvboss.xyz/logos/India/UdayaMovies.in.png" group-title="Indian TV",IND-Kannada: UDAYA MOVIES
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083138.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="IND-Malayalam: Asianet Movies" tvg-logo="https://iptvboss.xyz/logos/India/AsianetMovies.in.png" group-title="Indian TV",IND-Malayalam: Asianet Movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083139.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-Telugu: MAA MOVIES" tvg-logo="" group-title="Indian TV",IND-Telugu: MAA MOVIES
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083140.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="IND-Bangla: Jalsa Movies HD" tvg-logo="https://iptvboss.xyz/logos/India/JalshaMovies.in.png" group-title="Indian TV",IND-Bangla: Jalsa Movies HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083141.m3u8
+#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="IND-Malayalam: Asianet Movies" tvg-logo="https://iptvboss.xyz/logos/India/AsianetMovies.in.png" group-title="Indian TV",IND-Malayalam: Asianet Movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083142.m3u8
+#EXTINF:-1 tvg-id="SuryaMovies.in" tvg-name="IND-Malayalam: Surya Movies" tvg-logo="https://iptvboss.xyz/logos/India/SuryaMovies.in.png" group-title="Indian TV",IND-Malayalam: Surya Movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083143.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="IND-tam: JAYA movies" tvg-logo="https://iptvboss.xyz/logos/India/JalshaMovies.in.png" group-title="Indian TV",IND-tam: JAYA movies
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083144.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind: OSCAR MOVIES BHOJPURI" tvg-logo="" group-title="Indian TV",Ind: OSCAR MOVIES BHOJPURI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083145.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla FHD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsBangla.in.png" group-title="Indian TV",Colors Bangla FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083146.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="colors Marathi FHD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsMarathi.in.png" group-title="Indian TV",colors Marathi FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083147.m3u8
+#EXTINF:-1 tvg-id="ColorsTamil.in" tvg-name="Colors Tamil FHD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsTamil.in.png" group-title="Indian TV",Colors Tamil FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083148.m3u8
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="GEMINI TV FHD" tvg-logo="https://iptvboss.xyz/logos/India/GeminiTV.in.png" group-title="Indian TV",GEMINI TV FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083149.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GUJ: Mantavya News Gujrat" tvg-logo="" group-title="Indian TV",GUJ: Mantavya News Gujrat
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083150.m3u8
+#EXTINF:-1 tvg-id="SandeshNews.in" tvg-name="Guj: Sandesh News HD" tvg-logo="https://iptvboss.xyz/logos/India/SandeshNews.in.png" group-title="Indian TV",Guj: Sandesh News HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083151.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in" tvg-name="GUJ: TV9 GUJARATI HD" tvg-logo="https://iptvboss.xyz/logos/India/TV9Gujarati.in.png" group-title="Indian TV",GUJ: TV9 GUJARATI HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083152.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ID FHD" tvg-logo="" group-title="Indian TV",ID FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083153.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="IND-Bangla: Colors Bangla HD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsBangla.in.png" group-title="Indian TV",IND-Bangla: Colors Bangla HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083154.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" tvg-name="IND-Bangla: Star Jalsa HD" tvg-logo="https://iptvboss.xyz/logos/India/STARJalsha.in.png" group-title="Indian TV",IND-Bangla: Star Jalsa HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083155.m3u8
+#EXTINF:-1 tvg-id="SunBangla.in" tvg-name="IND-Bangla: SUN Bangla" tvg-logo="https://iptvboss.xyz/logos/India/SunBangla.in.png" group-title="Indian TV",IND-Bangla: SUN Bangla
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083156.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="IND-Bangla: Zee Bangla Cinema" tvg-logo="https://iptvboss.xyz/logos/India/ZeeBanglaCinema.in.png" group-title="Indian TV",IND-Bangla: Zee Bangla Cinema
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083157.m3u8
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="IND-Bangla: Zee Bangla HD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeBangla.in.png" group-title="Indian TV",IND-Bangla: Zee Bangla HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083158.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="IND-Bangla: ZEE BANGLA CINE" tvg-logo="https://iptvboss.xyz/logos/India/ZeeBanglaCinema.in.png" group-title="Indian TV",IND-Bangla: ZEE BANGLA CINE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083159.m3u8
+#EXTINF:-1 tvg-id="ColorsGujaratiCinema.in" tvg-name="IND-Gujarati: Colors Guj Cinema" tvg-logo="https://iptvboss.xyz/logos/India/ColorsGujaratiCinema.in.png" group-title="Indian TV",IND-Gujarati: Colors Guj Cinema
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083160.m3u8
+#EXTINF:-1 tvg-id="ColorsGujarati.in" tvg-name="IND-Gujarati: Colors Gujrati" tvg-logo="https://iptvboss.xyz/logos/India/ColorsGujarati.in.png" group-title="Indian TV",IND-Gujarati: Colors Gujrati
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083161.m3u8
+#EXTINF:-1 tvg-id="UdayaMusic.in" tvg-name="IND-Kannada:  Udaya Music" tvg-logo="https://iptvboss.xyz/logos/India/UdayaMusic.in.png" group-title="Indian TV",IND-Kannada:  Udaya Music
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083162.m3u8
+#EXTINF:-1 tvg-id="ColorsKannada.in" tvg-name="IND-Kannada: Colors Kannada HD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsKannada.in.png" group-title="Indian TV",IND-Kannada: Colors Kannada HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083163.m3u8
+#EXTINF:-1 tvg-id="ColorsSUPER.in" tvg-name="IND-Kannada: COLORS SUPER" tvg-logo="https://iptvboss.xyz/logos/India/ColorsSUPER.in.png" group-title="Indian TV",IND-Kannada: COLORS SUPER
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083164.m3u8
+#EXTINF:-1 tvg-id="StarSuvarna.in" tvg-name="IND-Kannada: STAR SUVARNA" tvg-logo="https://iptvboss.xyz/logos/India/StarSuvarna.in.png" group-title="Indian TV",IND-Kannada: STAR SUVARNA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083165.m3u8
+#EXTINF:-1 tvg-id="UdayaComedy.in" tvg-name="IND-Kannada: Udaya Comedy" tvg-logo="https://iptvboss.xyz/logos/India/UdayaComedy.in.png" group-title="Indian TV",IND-Kannada: Udaya Comedy
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083166.m3u8
+#EXTINF:-1 tvg-id="UdayaTV.in" tvg-name="IND-Kannada: Udaya HD" tvg-logo="https://iptvboss.xyz/logos/India/UdayaTV.in.png" group-title="Indian TV",IND-Kannada: Udaya HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083167.m3u8
+#EXTINF:-1 tvg-id="Flowers.in" tvg-name="IND-Malayalam:  Flower tv" tvg-logo="https://iptvboss.xyz/logos/India/Flowers.in.png" group-title="Indian TV",IND-Malayalam:  Flower tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083168.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="IND-Malayalam: Asianet HD" tvg-logo="https://iptvboss.xyz/logos/India/Asianet.in.png" group-title="Indian TV",IND-Malayalam: Asianet HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083169.m3u8
+#EXTINF:-1 tvg-id="AsianetPlus.in" tvg-name="IND-Malayalam: Asianet Plus" tvg-logo="https://iptvboss.xyz/logos/India/AsianetPlus.in.png" group-title="Indian TV",IND-Malayalam: Asianet Plus
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083170.m3u8
+#EXTINF:-1 tvg-id="Asianet.in" tvg-name="IND-Malayalam: Asianet Middle east" tvg-logo="https://iptvboss.xyz/logos/India/Asianet.in.png" group-title="Indian TV",IND-Malayalam: Asianet Middle east
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083171.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-name="IND-Malayalam: Asianet News" tvg-logo="https://iptvboss.xyz/logos/India/AsianetNews.in.png" group-title="Indian TV",IND-Malayalam: Asianet News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083172.m3u8
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="IND-Malayalam: Raj Musix" tvg-logo="https://iptvboss.xyz/logos/India/RajMusix.in.png" group-title="Indian TV",IND-Malayalam: Raj Musix
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083173.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in" tvg-name="IND-Malayalam: Raj News" tvg-logo="https://iptvboss.xyz/logos/India/KairaliNews.in.png" group-title="Indian TV",IND-Malayalam: Raj News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083174.m3u8
+#EXTINF:-1 tvg-id="Surya.in" tvg-name="IND-Malayalam: Surya HD" tvg-logo="https://iptvboss.xyz/logos/India/Surya.in.png" group-title="Indian TV",IND-Malayalam: Surya HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083175.m3u8
+#EXTINF:-1 tvg-id="SuryaComedy.in" tvg-name="IND-Malayalam: SURYA COMEDY" tvg-logo="https://iptvboss.xyz/logos/India/SuryaComedy.in.png" group-title="Indian TV",IND-Malayalam: SURYA COMEDY
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083176.m3u8
+#EXTINF:-1 tvg-id="Surya.in" tvg-name="IND-Malayalam: SURYA MUSIC" tvg-logo="https://iptvboss.xyz/logos/India/SuryaMusic.in.png" group-title="Indian TV",IND-Malayalam: SURYA MUSIC
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083177.m3u8
+#EXTINF:-1 tvg-id="ColorsMarathi.in" tvg-name="IND-MARATHI: Colors Marathi HD" tvg-logo="https://iptvboss.xyz/logos/India/ColorsMarathi.in.png" group-title="Indian TV",IND-MARATHI: Colors Marathi HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083178.m3u8
+#EXTINF:-1 tvg-id="SONYMARATHI.in" tvg-name="IND-MARATHI: SONY MARATHI SD" tvg-logo="https://iptvboss.xyz/logos/India/SONYMARATHI.in.png" group-title="Indian TV",IND-MARATHI: SONY MARATHI SD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083179.m3u8
+#EXTINF:-1 tvg-id="StarPravah.in" tvg-name="IND-MARATHI: Star Pravah HD" tvg-logo="https://iptvboss.xyz/logos/India/StarPravah.in.png" group-title="Indian TV",IND-MARATHI: Star Pravah HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083180.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathi.in" tvg-name="IND-MARATHI: Zee marathi HD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeMarathi.in.png" group-title="Indian TV",IND-MARATHI: Zee marathi HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083181.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in" tvg-name="Npl-loc: Nepal TV HD" tvg-logo="" group-title="Indian TV",Npl-loc: Nepal TV HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083182.m3u8
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="IND-Punjabi: MH ONE" tvg-logo="https://iptvboss.xyz/logos/India/MHOne.in.png" group-title="Indian TV",IND-Punjabi: MH ONE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083183.m3u8
+#EXTINF:-1 tvg-id="PTCChakDe.in" tvg-name="IND-Punjabi: PTC CHAKDE" tvg-logo="https://iptvboss.xyz/logos/India/PTCChakDe.in.png" group-title="Indian TV",IND-Punjabi: PTC CHAKDE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083184.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-Punjabi: PTC MUSIC" tvg-logo="" group-title="Indian TV",IND-Punjabi: PTC MUSIC
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083185.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="IND-Punjabi: PTC NEWS" tvg-logo="https://iptvboss.xyz/logos/India/PTCNews.in.png" group-title="Indian TV",IND-Punjabi: PTC NEWS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083186.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="IND-Punjabi: PTC PUNJABI" tvg-logo="https://iptvboss.xyz/logos/India/PTCPunjabi.in.png" group-title="Indian TV",IND-Punjabi: PTC PUNJABI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083187.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in" tvg-name="IND-Punjabi: PTC PUNJABI GOLD" tvg-logo="https://iptvboss.xyz/logos/India/PTCPunjabiGold.in.png" group-title="Indian TV",IND-Punjabi: PTC PUNJABI GOLD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083188.m3u8
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="IND-Punjabi: PTC SIMRAN" tvg-logo="https://iptvboss.xyz/logos/India/PTCSimran.in.png" group-title="Indian TV",IND-Punjabi: PTC SIMRAN
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083189.m3u8
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="IND-regional: 10tv" tvg-logo="https://iptvboss.xyz/logos/India/10TV.in.png" group-title="Indian TV",IND-regional: 10tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083190.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-name="IND-regional: AMrita" tvg-logo="https://iptvboss.xyz/logos/India/AmritaTV.in.png" group-title="Indian TV",IND-regional: AMrita
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083191.m3u8
+#EXTINF:-1 tvg-id="ABNAndhraJyothy.in" tvg-name="IND-regional: ANDHRA JYOTI" tvg-logo="https://iptvboss.xyz/logos/India/ABNAndhraJyothy.in.png" group-title="Indian TV",IND-regional: ANDHRA JYOTI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083192.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: AP 24X7" tvg-logo="" group-title="Indian TV",IND-regional: AP 24X7
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083193.m3u8
+#EXTINF:-1 tvg-id="ATETV.in" tvg-name="IND-regional: ATE TV" tvg-logo="" group-title="Indian TV",IND-regional: ATE TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083194.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: CALVARY TV" tvg-logo="" group-title="Indian TV",IND-regional: CALVARY TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083195.m3u8
+#EXTINF:-1 tvg-id="CaptainNews.in" tvg-name="IND-regional: CAPTAIN TV" tvg-logo="https://iptvboss.xyz/logos/India/CaptainNews.in.png" group-title="Indian TV",IND-regional: CAPTAIN TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083196.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: Darshana Tv" tvg-logo="https://iptvboss.xyz/logos/India/DDGyanDarshan.in.png" group-title="Indian TV",IND-regional: Darshana Tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083197.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: Dheeran TV" tvg-logo="" group-title="Indian TV",IND-regional: Dheeran TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083198.m3u8
+#EXTINF:-1 tvg-id="HMTV.in" tvg-name="IND-regional: HMTV" tvg-logo="https://iptvboss.xyz/logos/India/HMTV.in.png" group-title="Indian TV",IND-regional: HMTV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083199.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: IMAYAM TV" tvg-logo="" group-title="Indian TV",IND-regional: IMAYAM TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083200.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in" tvg-name="IND-regional: Jaihind" tvg-logo="https://iptvboss.xyz/logos/India/JaihindTV.in.png" group-title="Indian TV",IND-regional: Jaihind
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083201.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="IND-regional: Jeevan" tvg-logo="https://iptvboss.xyz/logos/India/JeevanTV.in.png" group-title="Indian TV",IND-regional: Jeevan
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083202.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="IND-regional: KAIRALI" tvg-logo="https://iptvboss.xyz/logos/India/KairaliTV.in.png" group-title="Indian TV",IND-regional: KAIRALI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083203.m3u8
+#EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="IND-regional: KAIRALI ARABIA" tvg-logo="https://iptvboss.xyz/logos/India/KairaliTV.in.png" group-title="Indian TV",IND-regional: KAIRALI ARABIA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083204.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: KALAIGNAR CHITHIRAM" tvg-logo="" group-title="Indian TV",IND-regional: KALAIGNAR CHITHIRAM
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083205.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="IND-regional: KALAIGNAR ISAI ARUVI" tvg-logo="https://iptvboss.xyz/logos/India/KalaignarTV.in.png" group-title="Indian TV",IND-regional: KALAIGNAR ISAI ARUVI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083206.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: KALAIGNAR MURASU" tvg-logo="" group-title="Indian TV",IND-regional: KALAIGNAR MURASU
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083207.m3u8
+#EXTINF:-1 tvg-id="Seithigal.in" tvg-name="IND-regional: KALAIGNAR SEITHIGAL" tvg-logo="https://iptvboss.xyz/logos/India/Seithigal.in.png" group-title="Indian TV",IND-regional: KALAIGNAR SEITHIGAL
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083208.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="IND-regional: KALAIGNAR SIRIPPOLI" tvg-logo="https://iptvboss.xyz/logos/India/KalaignarTV.in.png" group-title="Indian TV",IND-regional: KALAIGNAR SIRIPPOLI
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083209.m3u8
+#EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="IND-regional: KALAIGNAR TV" tvg-logo="https://iptvboss.xyz/logos/India/KalaignarTV.in.png" group-title="Indian TV",IND-regional: KALAIGNAR TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083210.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in" tvg-name="IND-regional: KALINGA TV" tvg-logo="https://iptvboss.xyz/logos/India/KalingaTV.in.png" group-title="Indian TV",IND-regional: KALINGA TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083211.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: Kerala Vision" tvg-logo="" group-title="Indian TV",IND-regional: Kerala Vision
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083212.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MADHA TV" tvg-logo="" group-title="Indian TV",IND-regional: MADHA TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083213.m3u8
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="IND-regional: MAKKAL TV" tvg-logo="https://iptvboss.xyz/logos/India/MakkalTV.in.png" group-title="Indian TV",IND-regional: MAKKAL TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083214.m3u8
+#EXTINF:-1 tvg-id="MalaiMurasuSeithigal.in" tvg-name="IND-regional: MALAI MURASU SEITHIKAL" tvg-logo="https://iptvboss.xyz/logos/India/MalaiMurasuSeithigal.in.png" group-title="Indian TV",IND-regional: MALAI MURASU SEITHIKAL
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083215.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MANGALAM TV" tvg-logo="" group-title="Indian TV",IND-regional: MANGALAM TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083216.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="IND-regional: Manorama News Central" tvg-logo="https://iptvboss.xyz/logos/India/ManoramaNews.in.png" group-title="Indian TV",IND-regional: Manorama News Central
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083217.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-name="IND-regional: Manorama News North" tvg-logo="https://iptvboss.xyz/logos/India/ManoramaNews.in.png" group-title="Indian TV",IND-regional: Manorama News North
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083218.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="IND-regional: Mazhavil Manorama" tvg-logo="https://iptvboss.xyz/logos/India/MazhavilManorama.in.png" group-title="Indian TV",IND-regional: Mazhavil Manorama
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083219.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-name="IND-regional: Mazhavil HD" tvg-logo="https://iptvboss.xyz/logos/India/MazhavilManorama.in.png" group-title="Indian TV",IND-regional: Mazhavil HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083220.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MBC TV" tvg-logo="" group-title="Indian TV",IND-regional: MBC TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083221.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-name="IND-regional: MEDIA ONE" tvg-logo="" group-title="Indian TV",IND-regional: MEDIA ONE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083222.m3u8
+#EXTINF:-1 tvg-id="MHOneNews.in" tvg-name="IND-regional: MH ONE NEWS" tvg-logo="https://iptvboss.xyz/logos/India/MHOneNews.in.png" group-title="Indian TV",IND-regional: MH ONE NEWS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083223.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MK SIX" tvg-logo="" group-title="Indian TV",IND-regional: MK SIX
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083224.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MK TELEVISION" tvg-logo="" group-title="Indian TV",IND-regional: MK TELEVISION
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083225.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: MK TUNES" tvg-logo="" group-title="Indian TV",IND-regional: MK TUNES
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083226.m3u8
+#EXTINF:-1 tvg-id="MoonTV.in" tvg-name="IND-regional: MOON TV" tvg-logo="https://iptvboss.xyz/logos/India/MoonTV.in.png" group-title="Indian TV",IND-regional: MOON TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083227.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: ORANGE TV" tvg-logo="" group-title="Indian TV",IND-regional: ORANGE TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083228.m3u8
+#EXTINF:-1 tvg-id="PolimerTV.in" tvg-name="IND-regional: POLIMER" tvg-logo="https://iptvboss.xyz/logos/India/PolimerTV.in.png" group-title="Indian TV",IND-regional: POLIMER
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083229.m3u8
+#EXTINF:-1 tvg-id="PowerTV.in" tvg-name="IND-regional: POWER VISION" tvg-logo="https://iptvboss.xyz/logos/India/PowerTV.in.png" group-title="Indian TV",IND-regional: POWER VISION
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083230.m3u8
+#EXTINF:-1 tvg-id="PublicTV.in" tvg-name="IND-regional: PUBLIC TV" tvg-logo="https://iptvboss.xyz/logos/India/PublicTV.in.png" group-title="Indian TV",IND-regional: PUBLIC TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083231.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: RM RUJUMARGAM TV" tvg-logo="" group-title="Indian TV",IND-regional: RM RUJUMARGAM TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083232.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: R TV" tvg-logo="https://iptvboss.xyz/logos/India/R.Bharat.in.png" group-title="Indian TV",IND-regional: R TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083233.m3u8
+#EXTINF:-1 tvg-id="PrimeNews.in" tvg-name="IND-regional: Sadhna Prime News" tvg-logo="" group-title="Indian TV",IND-regional: Sadhna Prime News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083234.m3u8
+#EXTINF:-1 tvg-id="SathiyamTV.in" tvg-name="IND-regional: SATHIYAM TV" tvg-logo="https://iptvboss.xyz/logos/India/SathiyamTV.in.png" group-title="Indian TV",IND-regional: SATHIYAM TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083235.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-name="IND-regional: SHEMAROO MARATHIBANA" tvg-logo="https://iptvboss.xyz/logos/India/ShemarooMarathiBana.in.png" group-title="Indian TV",IND-regional: SHEMAROO MARATHIBANA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083236.m3u8
+#EXTINF:-1 tvg-id="SriSankaraTV.in" tvg-name="IND-regional: SRI SANKARA" tvg-logo="https://iptvboss.xyz/logos/India/SriSankaraTV.in.png" group-title="Indian TV",IND-regional: SRI SANKARA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083237.m3u8
+#EXTINF:-1 tvg-id="StudioYuva.in" tvg-name="IND-regional: Studio One" tvg-logo="https://iptvboss.xyz/logos/India/StudioYuva.in.png" group-title="Indian TV",IND-regional: Studio One
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083238.m3u8
+#EXTINF:-1 tvg-id="SudarshanNews.in" tvg-name="IND-regional: Survana news" tvg-logo="https://iptvboss.xyz/logos/India/SudarshanNews.in.png" group-title="Indian TV",IND-regional: Survana news
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083239.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: TAMILAN TELEVISION" tvg-logo="" group-title="Indian TV",IND-regional: TAMILAN TELEVISION
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083240.m3u8
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="IND-regional: TV5 KANNADA" tvg-logo="https://iptvboss.xyz/logos/India/TV5Kannada.in.png" group-title="Indian TV",IND-regional: TV5 KANNADA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083241.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: TV 5" tvg-logo="" group-title="Indian TV",IND-regional: TV 5
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083242.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="IND-regional: T NEWS" tvg-logo="https://iptvboss.xyz/logos/India/TNews.in.png" group-title="Indian TV",IND-regional: T NEWS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083243.m3u8
+#EXTINF:-1 tvg-id="WeTV.in" tvg-name="IND-regional: WE" tvg-logo="" group-title="Indian TV",IND-regional: WE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083244.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: WIN TV" tvg-logo="" group-title="Indian TV",IND-regional: WIN TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083245.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IND-regional: YONETV" tvg-logo="" group-title="Indian TV",IND-regional: YONETV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083246.m3u8
+#EXTINF:-1 tvg-id="AdithyaTV.in" tvg-name="IND-tam: Adithya TV" tvg-logo="https://iptvboss.xyz/logos/India/AdithyaTV.in.png" group-title="Indian TV",IND-tam: Adithya TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083247.m3u8
+#EXTINF:-1 tvg-id="JayaMax.in" tvg-name="IND-tam: JAYA MAX" tvg-logo="https://iptvboss.xyz/logos/India/JayaMax.in.png" group-title="Indian TV",IND-tam: JAYA MAX
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083248.m3u8
+#EXTINF:-1 tvg-id="JayaTV.in" tvg-name="IND-tam: JAYA TV" tvg-logo="https://iptvboss.xyz/logos/India/JayaTV.in.png" group-title="Indian TV",IND-tam: JAYA TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083249.m3u8
+#EXTINF:-1 tvg-id="RajDigitalPlus.in" tvg-name="IND-tam: Raj Digital+" tvg-logo="https://iptvboss.xyz/logos/India/RajDigitalPlus.in.png" group-title="Indian TV",IND-tam: Raj Digital+
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083250.m3u8
+#EXTINF:-1 tvg-id="RajTV.in" tvg-name="IND-tam: Raj TV" tvg-logo="https://iptvboss.xyz/logos/India/RajTV.in.png" group-title="Indian TV",IND-tam: Raj TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083251.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-name="IND-Tamil : Colors HD" tvg-logo="https://iptvboss.xyz/logos/India/Colors.in.png" group-title="Indian TV",IND-Tamil : Colors HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083252.m3u8
+#EXTINF:-1 tvg-id="KTV.in" tvg-name="IND-Tamil : KTV HD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VUt20RIzsyt_GxTCMTXG8yp.png" group-title="Indian TV",IND-Tamil : KTV HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083253.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="IND-Tamil : Star Vijay HD" tvg-logo="https://iptvboss.xyz/logos/India/StarVijay.in.png" group-title="Indian TV",IND-Tamil : Star Vijay HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083254.m3u8
+#EXTINF:-1 tvg-id="StarVijay.in" tvg-name="IND-Tamil : Star Vijay Super" tvg-logo="https://iptvboss.xyz/logos/India/StarVijay.in.png" group-title="Indian TV",IND-Tamil : Star Vijay Super
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083255.m3u8
+#EXTINF:-1 tvg-id="SunMusic.in" tvg-name="IND-Tamil : Sun Music HD" tvg-logo="https://iptvboss.xyz/logos/India/SunMusic.in.png" group-title="Indian TV",IND-Tamil : Sun Music HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083256.m3u8
+#EXTINF:-1 tvg-id="SunNews.in" tvg-name="IND-Tamil : Sun News" tvg-logo="https://iptvboss.xyz/logos/India/SunNews.in.png" group-title="Indian TV",IND-Tamil : Sun News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083257.m3u8
+#EXTINF:-1 tvg-id="SunTV.in" tvg-name="IND-Tamil : Sun tv HD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VVJdcrFBCuH1zDbm-0VNnbH.png" group-title="Indian TV",IND-Tamil : Sun tv HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083258.m3u8
+#EXTINF:-1 tvg-id="SunLife.in" tvg-name="IND-Tamil : SUN LIFE" tvg-logo="https://iptvboss.xyz/logos/India/SunLife.in.png" group-title="Indian TV",IND-Tamil : SUN LIFE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083259.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in" tvg-name="IND-Tamil : Zee Tamil HD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTamil.in.png" group-title="Indian TV",IND-Tamil : Zee Tamil HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083260.m3u8
+#EXTINF:-1 tvg-id="JayaPlus.in" tvg-name="IND-Tamil: Jaya Plus" tvg-logo="https://iptvboss.xyz/logos/India/JayaPlus.in.png" group-title="Indian TV",IND-Tamil: Jaya Plus
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083261.m3u8
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="IND-Tamil: Raj Musix" tvg-logo="https://iptvboss.xyz/logos/India/RajMusix.in.png" group-title="Indian TV",IND-Tamil: Raj Musix
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083262.m3u8
+#EXTINF:-1 tvg-id="RajNewsKannada.in" tvg-name="IND-Tamil: Raj News Kannada" tvg-logo="https://iptvboss.xyz/logos/India/RajNewsKannada.in.png" group-title="Indian TV",IND-Tamil: Raj News Kannada
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083263.m3u8
+#EXTINF:-1 tvg-id="ETVCinema.in" tvg-name="IND-Telugu: ETV Cinema" tvg-logo="https://iptvboss.xyz/logos/India/ETVCinema.in.png" group-title="Indian TV",IND-Telugu: ETV Cinema
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083264.m3u8
+#EXTINF:-1 tvg-id="ETV.in" tvg-name="IND-Telugu: Etv HD" tvg-logo="https://iptvboss.xyz/logos/India/ETV.in.png" group-title="Indian TV",IND-Telugu: Etv HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083265.m3u8
+#EXTINF:-1 tvg-id="ETVLife.in" tvg-name="IND-Telugu: ETV LIFE" tvg-logo="https://iptvboss.xyz/logos/India/ETVLife.in.png" group-title="Indian TV",IND-Telugu: ETV LIFE
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083266.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.in" tvg-name="IND-Telugu: ETV PLUS" tvg-logo="https://iptvboss.xyz/logos/India/ETVPlus.in.png" group-title="Indian TV",IND-Telugu: ETV PLUS
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083267.m3u8
+#EXTINF:-1 tvg-id="GeminiTV.in" tvg-name="IND-Telugu: Gemini HD" tvg-logo="https://iptvboss.xyz/logos/India/GeminiTV.in.png" group-title="Indian TV",IND-Telugu: Gemini HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083268.m3u8
+#EXTINF:-1 tvg-id="GeminiLife.in" tvg-name="IND-Telugu: Gemini life" tvg-logo="https://iptvboss.xyz/logos/India/GeminiLife.in.png" group-title="Indian TV",IND-Telugu: Gemini life
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083269.m3u8
+#EXTINF:-1 tvg-id="GeminiMusic.in" tvg-name="IND-Telugu: GEMINI MUSIC" tvg-logo="https://iptvboss.xyz/logos/India/GeminiMusic.in.png" group-title="Indian TV",IND-Telugu: GEMINI MUSIC
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083270.m3u8
+#EXTINF:-1 tvg-id="StarMaaGold.in" tvg-name="IND-Telugu: MAA GOLD" tvg-logo="https://iptvboss.xyz/logos/India/StarMaaGold.in.png" group-title="Indian TV",IND-Telugu: MAA GOLD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083271.m3u8
+#EXTINF:-1 tvg-id="MAATV.in" tvg-name="IND-Telugu: Maa HD" tvg-logo="https://iptvboss.xyz/logos/India/MAATV.in.png" group-title="Indian TV",IND-Telugu: Maa HD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083272.m3u8
+#EXTINF:-1 tvg-id="RajMusix.in" tvg-name="IND-Telugu: Raj Musix" tvg-logo="https://iptvboss.xyz/logos/India/RajMusix.in.png" group-title="Indian TV",IND-Telugu: Raj Musix
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083273.m3u8
+#EXTINF:-1 tvg-id="ZeeTelugu.in" tvg-name="IND-Telugu: Zee Telugu" tvg-logo="https://iptvboss.xyz/logos/India/ZeeTelugu.in.png" group-title="Indian TV",IND-Telugu: Zee Telugu
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083274.m3u8
+#EXTINF:-1 tvg-id="ZeeKannada.in" tvg-name="Zee Kannada FHD" tvg-logo="https://iptvboss.xyz/logos/India/ZeeKannada.in.png" group-title="Indian TV",Zee Kannada FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083275.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-reg: CALVARY TV" tvg-logo="" group-title="Indian TV",Ind-reg: CALVARY TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083276.m3u8
+#EXTINF:-1 tvg-id="ShubhavaartaTV.in" tvg-name="Ind-reg: SUBHAVAARTHA" tvg-logo="https://iptvboss.xyz/logos/India/ShubhavaartaTV.in.png" group-title="Indian TV",Ind-reg: SUBHAVAARTHA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083277.m3u8
+#EXTINF:-1 tvg-id="Disney.in" tvg-name="Disney FHD" tvg-logo="https://iptvboss.xyz/logos/India/Disney.in.png" group-title="Indian TV",Disney FHD
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083278.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-pun: Maha Punjabi" tvg-logo="" group-title="Indian TV",Ind-pun: Maha Punjabi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083279.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Ind-Pun: ZEE Punjabi" tvg-logo="https://iptvboss.xyz/logos/India/ZeePunjabi.in.png" group-title="Indian TV",Ind-Pun: ZEE Punjabi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083280.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="Indian TV",ind-pun: Pittara TV
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083281.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="Ind-Punjabi: DD Punjabi" tvg-logo="https://iptvboss.xyz/logos/India/DDPunjabi.in.png" group-title="Indian TV",Ind-Punjabi: DD Punjabi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083282.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-Punjabi: Alpha etc Punjabi" tvg-logo="" group-title="Indian TV",Ind-Punjabi: Alpha etc Punjabi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083283.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-Punjabi: Jus Punjabi" tvg-logo="" group-title="Indian TV",Ind-Punjabi: Jus Punjabi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083284.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-Punjabi: prime Asia" tvg-logo="" group-title="Indian TV",Ind-Punjabi: prime Asia
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083285.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-Punjabi: PBN Punjab" tvg-logo="" group-title="Indian TV",Ind-Punjabi: PBN Punjab
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083286.m3u8
+#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-name="Ind-loc: cnbc awaz" tvg-logo="https://iptvboss.xyz/logos/India/CNBCAwaaz.in.png" group-title="Indian TV",Ind-loc: cnbc awaz
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083287.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAK: PAIGHAM URDU" tvg-logo="" group-title="Indian TV",PAK: PAIGHAM URDU
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083288.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAK: PAIGHAM PASHTO" tvg-logo="" group-title="Indian TV",PAK: PAIGHAM PASHTO
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083289.m3u8
+#EXTINF:-1 tvg-id="SAB.in" tvg-name="Pak-Loc: SAB TV PAK" tvg-logo="https://iptvboss.xyz/logos/India/SAB.in.png" group-title="Indian TV",Pak-Loc: SAB TV PAK
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083290.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Npl-loc: Avenues Khabar Live" tvg-logo="" group-title="Indian TV",Npl-loc: Avenues Khabar Live
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083291.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-Punjabi: Fateh Tv" tvg-logo="" group-title="Indian TV",Ind-Punjabi: Fateh Tv
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083292.m3u8
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-name="Ind-Punjabi: ABP SANJHA" tvg-logo="https://iptvboss.xyz/logos/India/ABPMajha.in.png" group-title="Indian TV",Ind-Punjabi: ABP SANJHA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083293.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsPunjab.in" tvg-name="ind-punjabi: india-news-punjab" tvg-logo="https://iptvboss.xyz/logos/India/IndiaNews.in.png" group-title="Indian TV",ind-punjabi: india-news-punjab
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083294.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="ind-punjabi: Living India News" tvg-logo="https://iptvboss.xyz/logos/India/LivingIndiaNews.in.png" group-title="Indian TV",ind-punjabi: Living India News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083295.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ind-punjabi: MH-1 Prime" tvg-logo="" group-title="Indian TV",ind-punjabi: MH-1 Prime
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083296.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-news: Wion News" tvg-logo="" group-title="Indian TV",Ind-news: Wion News
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083297.m3u8
+#EXTINF:-1 tvg-id="News24.in" tvg-name="Npl-loc: News 24" tvg-logo="https://iptvboss.xyz/logos/India/News24.in.png" group-title="Indian TV",Npl-loc: News 24
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083298.m3u8
+#EXTINF:-1 tvg-id="TV9Marathi.in" tvg-name="Bd-loc: Tv9 Marathi" tvg-logo="https://iptvboss.xyz/logos/India/TV9Marathi.in.png" group-title="Indian TV",Bd-loc: Tv9 Marathi
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083299.m3u8
+#EXTINF:-1 tvg-id="TV9Bharatvarsh.in" tvg-name="Ind-loc: TV9 Bharatvarsh" tvg-logo="https://iptvboss.xyz/logos/India/TV9Bharatvarsh.in.png" group-title="Indian TV",Ind-loc: TV9 Bharatvarsh
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083300.m3u8
+#EXTINF:-1 tvg-id="TV5Kannada.in" tvg-name="Ind-Kannada: TV kannada" tvg-logo="https://iptvboss.xyz/logos/India/TV5Kannada.in.png" group-title="Indian TV",Ind-Kannada: TV kannada
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083301.m3u8
+#EXTINF:-1 tvg-id="TV9Kannada.in" tvg-name="IND-MARATHI: TV9 KANNADA Live" tvg-logo="https://iptvboss.xyz/logos/India/TV9Kannada.in.png" group-title="Indian TV",IND-MARATHI: TV9 KANNADA Live
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083302.m3u8
+#EXTINF:-1 tvg-id="TV9Telugu.in" tvg-name="IND-Telugu: 	TV9 Telugu" tvg-logo="https://iptvboss.xyz/logos/India/TV9Telugu.in.png" group-title="Indian TV",IND-Telugu: 	TV9 Telugu
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083303.m3u8
+#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-name="Ind-Guj: ABP ASMITA" tvg-logo="https://iptvboss.xyz/logos/India/ABPAsmita.in.png" group-title="Indian TV",Ind-Guj: ABP ASMITA
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083304.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsGujarat.in" tvg-name="Ind-Guj: India News Gujarati" tvg-logo="https://iptvboss.xyz/logos/India/IndiaNewsGujarat.in.png" group-title="Indian TV",Ind-Guj: India News Gujarati
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083305.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind-guj: Gujarat First 24x7" tvg-logo="" group-title="Indian TV",Ind-guj: Gujarat First 24x7
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083306.m3u8
+#EXTINF:-1 tvg-id="TataSkyBhojpuriSanima.in" tvg-name="Ind: Sangeet Bhojpuri" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VV01jkHLHwV5vajIPwgqD1LtEAbIMn7EeMEuylZ1iPbFg.png" group-title="Indian TV",Ind: Sangeet Bhojpuri
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083307.m3u8
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-name="Ind: DABANGG" tvg-logo="https://iptvboss.xyz/logos/India/DDBangla.in.png" group-title="Indian TV",Ind: DABANGG
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083308.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ind: Goldmines Bhojpuri" tvg-logo="" group-title="Indian TV",Ind: Goldmines Bhojpuri
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083309.m3u8
+#EXTINF:-1 tvg-id="ZeeBiskope.in" tvg-name="Ind: Zee Biskope" tvg-logo="https://iptvboss.xyz/logos/India/ZeeBiskope.in.png" group-title="Indian TV",Ind: Zee Biskope
+http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/2083310.m3u8
