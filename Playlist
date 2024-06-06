@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" , T20 WC English tofee VIP
@@ -34,10 +35,52 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1345&e=.m3u8
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1341&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFnKNc5uv82A7BIZwS1LhC4/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" , Nagorik TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLkAaSWp4lqqpwzbneVWF_JtrMp6Co8igjkA&s" , ATN Bangla
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHKDXr8KfSCDHWtIz5RUlXVo/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_PzLYrDkO7qND7MCx4Tk_awS9J9PwOzcH6Q&s" , ATN News
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHIKy_-evUz5gzVeVZxfwdL0/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" , Ekushey TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHC9TsTiZk2byTduiO3etsiQ/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/800px-NTV_%28Bangladesh%29_logo.svg.png" , NTV
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.php?channel-id=@NTVDigitalLive
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" , RTV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHAzpa4a_1HbPiRe85MtK4-Q/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" , Bangla Vision
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHLK4eNk7VdWZsf2_6uy9wrM/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgnS59tV7bKpMNBeYJt5SHuhSllOdN66hEg&s" , Channel 24
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHAlNRJ7n7ctWE7hnVQZZgz8/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkA9JiFh7mPzvSJaR1VRwnRR-RI8CSyciGhA&s" , Ekattor TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHH70aj_9qw9tTWpzR-KHj4g/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzT_YiuxgeRnDCPpramUwZjzbogvLw9W8_4w&s" , SA TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHH70aj_9qw9tTWpzR-KHj4g/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUL1AKfua_foATC6f3zcjN1oyZmhFWHp1MCw&s" , Shomoy TV
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Ananda_TV_Logo.png" , Ananda TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGsAJzNHNf0dixKtVCRPwfU/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" , Bangla TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHGkvXoqFdbTFxYDLdNTPKyU/ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/uMdBgj5QVqx9jD0vV951HDbYlx4W-wQUZZ0L3WYpqi9wfVOpbwUvI0TkKR5HF-g8TtHNybXVNA=s176-c-k-c0x00ffffff-no-rj-mo" , Bijoy TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHBKLjitt2EHwa1VleXcpu_k/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" , Channel 9
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg/ts
 
 #EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1 English FHD" tvg-logo="http://p13.cx:80/images/eGqxKQFYBvdaZ1gtJTHXn-UTCywOJK6dLU-_nykc5VXgYuzfReVGUMhmNaiBuXHB8JTHre-EK9tWIYNq3jPnhA.png" group-title="IN | Sports",Star Sports 1 English FHD
 http://ptv.lol:80/Centra_Live/Gkz2bP7yMA/1458841.m3u8
