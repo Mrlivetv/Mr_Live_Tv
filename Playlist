@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" , T20 WC English tofee VIP
+https://shounwifi.net/ott-player/tofee-english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,  T20 WC Bangla toffee VIP
+https://shounwifi.net/ott-player/tofee-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T Sports
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" , Sky Sports Cricket
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=12
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" , Zee Bangla
+https://tsneh.vercel.app/zeebangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png" , Star Jalsha
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/jtkaih8ptzK4vzCxqmIb6ebRSvF7simI6JQ4d1od_YcKx03tnRm2HvXsmaR09Vevu1XpkW1gT30=s900-c-k-c0x00ffffff-no-rj" , Colors Bangla
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrq8WGnJYw7a-0-cVbKSkuw2EKp-IVLAsKA&s" , Zee Bangla Cinema
+http://sansat.net:88/02029761595924/9d089925dc60a821/100702
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
+http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13888.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/F_P_BTyPBnghhz2sBd7o-TAEOUe13gq_sbNoWxanFDruYusno34NbIWzCyYSvGS_kaSUizkzgg=s900-c-k-c0x00ffffff-no-rj" , Sonic Bangla
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1345&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9F3Qdt_xLS63UROdf4leWQhrknaJ92URx0Q&s" , Nick Bangla
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1341&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" , Nagorik TV
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
