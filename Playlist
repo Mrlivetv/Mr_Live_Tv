@@ -1,17 +1,17 @@
 
+
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" , T20 WC English tofee VIP
-https://shounwifi.net/ott-player/tofee-english.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_060681001717400250.png" , T20 WC Toffee English VIP
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8?%7CCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717770168:KeyName=prod_live_events:Signature=JeOwGe3dfVpBhYugSotUwL9mGaE9VcRrnEe4j-i1jyLCteP4LMdKqewYRT-gHO0jm70qst0_Ah4I0W2ULwFTCg
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" ,  T20 WC Bangla toffee VIP
-https://shounwifi.net/ott-player/tofee-bangla.m3u8
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png" , T20 WC Toffee Bangla VIP
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?%7CCookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1717770636:KeyName=prod_live_events:Signature=HGIq-xPni70vSJgZnrh0WHC1_2WLMWCLGkA0DrjklyQg-b2DwtgB-jZ9PCP_yexLGtzQDqaNG6o00_6g7cWkDw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" , T Sports
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHNjRY_ld_ja1u5RBwpHR-wI/ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" , Sky Sports Cricket
-https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=12
+http://46.229.253.27/hlsr/ShJcU0BbQQNHDgBaVFMFDQBSBwNWBAVTVQdQVFEFCgQAUVFQAQQACFwbGBpEF0dcWF1vWQIXXlADVlABXEgRR0JVRm1aV0EDRwoDDgJTAxsVEkRZC1BGWwFOQEcMABEIEwMGBQcFUgBHFRZdTxdQS1dRXG8CUBIIUgdADQsRX14dEltcbFcGVARXUBoNQQUbFRJZQxYXXg9EDg4bRwZaRkNRQFcRCUEKXQgMGhtBVlZMXkRCHxdeQ3YgQBtHAUtGVF5HW1xdQQNHVAdND0EZG1BDb0IDRhATVAMPUhdGCRABEhgQXlIbZgZWWlZSAEFQVl5DElwXVUMdQA9YCw1HXUNvRFtXEVkbVAwHCAJbABtE/QulsDBDiUa/RbXCmfoNhV/124269/4eaeaa9b7a7201840a115dcd46275577/124269_15546.ts
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png" , Zee Bangla
 https://tsneh.vercel.app/zeebangla.m3u8
@@ -26,7 +26,7 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=10932
 http://sansat.net:88/02029761595924/9d089925dc60a821/100702
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Colors_Bangla_Cinema.png" , Colors Bangla Cinema
-http://tv.mototvlive.net:8880/live/1256%40%23zx/1256%40%23zxv/13888.ts
+https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1657&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/F_P_BTyPBnghhz2sBd7o-TAEOUe13gq_sbNoWxanFDruYusno34NbIWzCyYSvGS_kaSUizkzgg=s900-c-k-c0x00ffffff-no-rj" , Sonic Bangla
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1345&e=.m3u8
@@ -35,7 +35,7 @@ https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1345&e=.m3u8
 https://fifabangladesh.live/@RANAPKX73/stream.m3u8?id=1341&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtxSW4E0BEhj1UDKM2KgvzPFfyCBtq6D-Bg&s" , Gazi TV
-http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFnKNc5uv82A7BIZwS1LhC4/ts
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv_hd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfqDdTe9G1pv5gxCSYPLEAMfa4z8IhK81gGQ&s" , Nagorik TV
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
@@ -81,3 +81,12 @@ http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHBKLjitt2EHwa1VleXcpu_k
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" , Channel 9
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHFvvsB8IHNPZXyH1vSDNjyg/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network Hindi
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" , Cartoon Network English
+http://starshare.live:8080/live/ashokkumar/ashokkumar/8.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png" , Sony Aath
+http://xtv.ooo:8080/global/global/245989
